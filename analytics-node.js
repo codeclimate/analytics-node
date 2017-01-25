@@ -41006,7 +41006,7 @@ exports.createContext = Script.createContext = function (context) {
 module.exports={
   "name": "analytics-node",
   "repository": "git://github.com/segmentio/analytics-node",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "The hassle-free way to integrate analytics into any node application.",
   "keywords": [
     "analytics",
